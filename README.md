@@ -34,4 +34,10 @@ The testbench consists of the following components:
 
 ---
 
+## ▶️ Run Online
 
+You can run this testbench online using EDA Playground:
+
+👉 [Open in EDA Playground](https://edaplayground.com/x/knMi)
+
+---
